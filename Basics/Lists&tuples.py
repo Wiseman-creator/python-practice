@@ -23,3 +23,23 @@ l1.insert(2, "Python")
 # sort() - sort the list in ascending order
 # reverse() - reverse the list
 # copy() - copy the list to another list
+
+# tuples
+#  a tuple is an immutable data type in python.
+t1= (7,9,"Shibam", 3.5, True)
+# count() - count the number of occurences of a value
+print(t1.count(7))
+# index() - find a position of the value
+print(t1.index("Shibam"))
+t2 = (50,607,89)
+# concatenation
+print(t1+t2)
+student = ("Shibam", 20, "Mathematics")
+name, age, subject = student
+print(f"Name: {name}, Age: {age}, Subject: {subject}")
+# tuple unpacking
+numbers = (10, 20, 30, 40, 50)
+first, *middle, last = numbers
+print(first)
+print(middle)
+print(last)
