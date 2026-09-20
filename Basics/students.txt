@@ -1,0 +1,8 @@
+101,Arjun,20,Mathematics,85
+102,Rahul,21,Physics,78
+103,Priya,20,Mathematics,92
+104,Amit,22,Computer Science,88
+105,Neha,21,Statistics,81
+106,Riya,20,Physics,75
+107,Ankit,22,Mathematics,95
+108,Sneha,21,Statistics,89

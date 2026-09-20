@@ -1,0 +1,5 @@
+Python is easy to learn with practice.
+File handling allows us to work with files.
+We can read, write, and append data.
+Python provides the open() function for files.
+The with statement automatically closes files.
