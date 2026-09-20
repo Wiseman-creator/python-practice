@@ -1,0 +1,16 @@
+student_id,name,age,course,semester,marks,attendance,city
+101,Priya,20,Mathematics,4,92,95,Kolkata
+102,Rohan,21,Physics,4,78,88,Delhi
+103,Amit,22,Computer Science,6,88,91,Mumbai
+104,Neha,21,Statistics,4,81,86,Kolkata
+105,Riya,20,Physics,4,75,79,Chennai
+106,Ankit,22,Mathematics,6,95,97,Delhi
+107,Sneha,21,Statistics,4,89,93,Kolkata
+108,Rahul,23,Computer Science,6,67,72,Mumbai
+109,Ananya,20,Mathematics,4,84,90,Pune
+110,Vivek,22,Physics,6,73,81,Hyderabad
+111,Kavya,21,Statistics,4,96,98,Kolkata
+112,Arjun,23,Computer Science,6,91,94,Bengaluru
+113,Meera,20,Mathematics,4,69,76,Pune
+114,Aditya,22,Physics,6,87,89,Delhi
+115,Isha,21,Statistics,4,77,85,Chennai
