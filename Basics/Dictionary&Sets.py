@@ -94,3 +94,16 @@ print(set3 ^ set2)  # symmetric difference
 print(set1.isdisjoint(set2))
 print(set3.issubset(set2))
 print(set3.issuperset(set2))
+
+set_a = {1, 3, 5, 7, 9}
+set_b = {2, 4, 6, 8}
+
+# Frozen set
+# it's an immutable version of a python set object.
+s = frozenset(set_a)
+
+# s.update(set_b)
+# Exception has occurred: AttributeError
+# 'frozenset' object has no attribute 'update'
+
+print(set_a)
