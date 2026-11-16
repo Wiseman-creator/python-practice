@@ -7,8 +7,8 @@ print(f"{name}, Good afternoon")
 # You are selected! 
 # <|Date|> 
 # '''
-import datetime
-today = datetime.date.today()
+import datetime as dt
+today = dt.date.today()
 print(f"Dear {name},\nYou are selected!\n{today}")
 # Write a program to double spacing in a string
 text = "I am felling nervous  today"
